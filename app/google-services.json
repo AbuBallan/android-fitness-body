@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922003409148",
+    "firebase_url": "https://fitness-body-dd4c6.firebaseio.com",
+    "project_id": "fitness-body-dd4c6",
+    "storage_bucket": "fitness-body-dd4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922003409148:android:72de46b9d1dba3b9932f79",
+        "android_client_info": {
+          "package_name": "com.jordan.fitnessbody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922003409148-du6o1akibu1lsr5vbqbu7mqc6i39hq2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwqlaTGJkSYac_HHBLMJewjK3Z2TSQWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922003409148-du6o1akibu1lsr5vbqbu7mqc6i39hq2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
